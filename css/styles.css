@@ -1,0 +1,133 @@
+body{
+    margin:0 auto;
+    font-family: 'Merriweather', serif;
+    
+    
+    background:linear-gradient(
+        to right,
+        rgba(41, 245, 167, 0.89) 0%,
+        rgba(41, 245, 167, 0.89) 35.1%,
+        white 35.1%,
+        white 100%
+    )
+    
+}
+
+
+div.container{
+    
+    -webkit-box-shadow: 1px 1px 50px 0 rgb(252, 245, 246);
+    -moz-box-shadow: 1px 1px 50px 0 rgb(252, 245, 246);
+    box-shadow: 1px 1px 50px 0 #666666;
+   
+    border: 0px solid #666666;
+    margin: 5% 5% 0 11%;
+    width: 75.1%;
+    height: 475px;
+  
+    background:linear-gradient(
+        to right,
+        rgba(41, 245, 167, 0.89) 0%,
+        rgba(41, 245, 167, 0.89) 32.1%,
+        white 32.1%,
+        white 100%
+    ) 
+}
+.content-left{
+    float: left;
+}
+form{
+  
+    font-size: 80%;
+    line-height: 2; 
+       
+}
+
+a.help{
+    margin: 10% 0% 0% 90%;
+    font-weight: lighter;
+    font-size: 70%;
+    color: black;   
+}
+
+
+.log-in{
+    text-align: center;
+    font-size: 80%;
+    float: right;
+    margin: -230px -380px 100% 100%;
+}
+
+.forget-password{
+    margin: 1% -54px 0% 73%;
+    font-size: 85%;
+    font-weight: lighter;
+    color: black;
+
+    
+}
+
+.form-class{
+    /* width:100%; */
+    float: right;
+    margin: -105px 17% 0% 0%;
+}
+    
+.praise-image{
+    width: 60px;
+    height: 60px;
+    margin: 15% 0% 0% 12%
+    
+}
+
+.clean-car{
+    font-family: 'Italianno', cursive;
+    font-size: 150%;
+    margin: 1% 0% 0% 10.2%;
+}
+.water-class{
+    font-size: 65%;
+    margin: 5% 5.6pc;
+        
+}
+
+.BUTTON_PQF {
+   background: rgba(41, 245, 167, 0.89);
+   background-image: -webkit-linear-gradient(top, rgba(41, 245, 167, 0.89), rgba(41, 245, 167, 0.89));
+   background-image: -moz-linear-gradient(top, rgba(41, 245, 167, 0.89), rgba(41, 245, 167, 0.89));
+   background-image: -ms-linear-gradient(top, rgba(41, 245, 167, 0.89), rgba(41, 245, 167, 0.89));
+   background-image: -o-linear-gradient(top, rgba(41, 245, 167, 0.89), rgba(41, 245, 167, 0.89));
+   background-image: -webkit-gradient(to bottom, rgba(41, 245, 167, 0.89), rgba(41, 245, 167, 0.89));
+   -webkit-border-radius: 5px;
+   -moz-border-radius: 5px;
+   border-radius: 5px;
+   height: 0;
+   line-height: 0;
+   color: #000000;
+   font-family: Helvetica;
+   width: 350px;
+   font-size: 14px;
+   font-weight: 100;
+   padding: 18px 18px;
+   margin: 15% 0%;
+   text-shadow: 2px 0 19px #000000;
+   border: solid rgba(41, 245, 167, 0.89) 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_PQF:hover {
+   border: solid #FFFFFF 0;
+   background: rgba(41, 245, 167, 0.89);
+   background-image: -webkit-linear-gradient(top, rgba(41, 245, 167, 0.89), rgba(41, 245, 167, 0.89));
+   background-image: -moz-linear-gradient(top, rgba(41, 245, 167, 0.89), rgba(41, 245, 167, 0.89));
+   background-image: -ms-linear-gradient(top, rgba(41, 245, 167, 0.89), rgba(41, 245, 167, 0.89));
+   background-image: -o-linear-gradient(top, rgba(41, 245, 167, 0.89), rgba(41, 245, 167, 0.89));
+   background-image: -webkit-gradient(to bottom, rgba(41, 245, 167, 0.89), rgba(41, 245, 167, 0.89));
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
